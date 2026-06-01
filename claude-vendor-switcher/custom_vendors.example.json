@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Example Anthropic-compatible Vendor",
+    "BaseUrl": "https://example.com/anthropic",
+    "AuthToken": "YOUR_API_KEY",
+    "AuthVariable": "ANTHROPIC_AUTH_TOKEN",
+    "HaikuModel": "example-haiku-model",
+    "SonnetModel": "example-sonnet-model",
+    "OpusModel": "example-opus-model",
+    "ExtraEnv": {
+      "OPTIONAL_VENDOR_ENV": "value"
+    },
+    "CreatedAt": "2026-06-01T00:00:00"
+  }
+]

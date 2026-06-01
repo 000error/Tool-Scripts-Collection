@@ -1,0 +1,7 @@
+settings.json
+settings.json.bak
+settings.local.json
+custom_vendors.json
+*.bak
+*.rar
+*.log
